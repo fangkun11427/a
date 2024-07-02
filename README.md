@@ -1,2 +1,2 @@
-# AA
-AA is an app development kit.
+# aa
+aa is an app development kit.
